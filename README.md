@@ -1,12 +1,12 @@
 # Pong Game with Q-Learning AI on ESP32
 This project is a modern take on the classic Pong game, implemented on an ESP32 microcontroller with an ST7735 TFT display (80x160 pixels) and an MPU6050 gyro sensor for paddle control. The game features a Q-learning-based AI opponent that learns and improves its gameplay over time.
 
-Features:
+### Features:
 **Classic Pong Gameplay: Enjoy the timeless two-player Pong experience with a human player vs. AI.**
 **Q-Learning AI: The AI opponent uses Q-learning to adapt and improve its strategy based on the game's progress, providing an evolving challenge.**
 **Real-Time Paddle Control: Use the MPU6050 gyro sensor to control your paddle by tilting the device, offering an intuitive and interactive gaming experience.**
 
-## Hardware Requirements:
+### Hardware Requirements:
 1. **ESP32 microcontroller**
 2. **ST7735 TFT display (80x160 pixels) 0.96 inch**
 3. **MPU6050 gyro sensor**
