@@ -3,9 +3,9 @@ This project is a modern take on the classic Pong game, implemented on an ESP32 
 Instructables link: https://www.instructables.com/Build-Your-Own-Pong-Game-With-Q-Learning-AI-on-ESP/
 
 ### Features:
-**Classic Pong Gameplay: Enjoy the timeless two-player Pong experience with a human player vs. AI.**
-**Q-Learning AI: The AI opponent uses Q-learning to adapt and improve its strategy based on the game's progress, providing an evolving challenge.**
-**Real-Time Paddle Control: Use the MPU6050 gyro sensor to control your paddle by tilting the device, offering an intuitive and interactive gaming experience.**
+*Classic Pong Gameplay: Enjoy the timeless two-player Pong experience with a human player vs. AI.*
+*Q-Learning AI: The AI opponent uses Q-learning to adapt and improve its strategy based on the game's progress, providing an evolving challenge.*
+*Real-Time Paddle Control: Use the MPU6050 gyro sensor to control your paddle by tilting the device, offering an intuitive and interactive gaming experience.*
 
 ### Hardware Requirements:
 1. **ESP32 microcontroller**
