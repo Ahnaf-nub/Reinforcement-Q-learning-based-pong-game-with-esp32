@@ -2,6 +2,8 @@
 This project is a modern take on the classic Pong game, implemented on an ESP32 microcontroller with an ST7735 TFT display (80x160 pixels) and an MPU6050 gyro sensor for paddle control. The game features a Q-learning-based AI opponent that learns and improves its gameplay over time.
 Instructables link: https://www.instructables.com/Build-Your-Own-Pong-Game-With-Q-Learning-AI-on-ESP/
 
+![image](https://github.com/user-attachments/assets/51cbddbd-3f97-4775-96c0-54f02041480d)
+
 ### Features:
 *Classic Pong Gameplay: Enjoy the timeless two-player Pong experience with a human player vs. AI.*
 *Q-Learning AI: The AI opponent uses Q-learning to adapt and improve its strategy based on the game's progress, providing an evolving challenge.*
